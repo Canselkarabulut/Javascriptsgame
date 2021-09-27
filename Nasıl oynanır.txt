@@ -1,0 +1,1 @@
+İlk olarak sayfa açılınca Başla butonuna basmanız gerekmekte. Ardından ekranda mavi olarak çıkan yemleri yön tuşlarını kullanarak 1 dakika süre içerisinde yemeniz gerekmekte. 
